@@ -1,5 +1,5 @@
 
-body, h1, p{
+form, h1, p{
   background: #b3b7d2 !important;
   display: flex;
   flex-direction: column;
