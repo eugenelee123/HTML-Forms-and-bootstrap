@@ -3,4 +3,9 @@
     flex-flow: column;
     justify-content: center;
     align-items: center;
+    background-color: #6492a3
+}
+
+html{
+  background-color: #6492a3;
 }
